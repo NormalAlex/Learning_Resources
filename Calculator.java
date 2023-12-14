@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
- * Write a CalculatorProgramUsingSwitchStatementExample program which performs Addition, subtraction, multiplication and division of two numbers in java.
+ * Write a Calculator program which performs Addition, subtraction, multiplication and division of two numbers in java.
  */
  
 /** JavaMadeSoEasy.com */
